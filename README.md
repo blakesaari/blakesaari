@@ -23,14 +23,12 @@
 
   ## 🧭 &nbsp;About Me
 
-  - 📚 Finance, Management Information Systems, International Business Graduate at the University of Hawaiʻi at Mānoa - Shidler College of Business.
+  - 📚 Finance, Management Information Systems, International Business graduate from the University of Hawaiʻi at Mānoa - Shidler College of Business.
   <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
 
   - 🌱  I’m always studying **JavaScript**, **TypeScript**, **NodeJS**, **SQL**, **Python** and **Pandas**.
 
   - 💬 Ask me about **decentralized finance**.
-
-  - ⚡ Fun fact: I'm a <a href="https://en.wikipedia.org/wiki/Potato">potato</a>
 
   <br>
   
@@ -86,22 +84,14 @@
   ## 📫 &nbsp;My Contacts
 
   <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://blakesaari.github.io/)&nbsp; -->
-  [![LinkedIn Badge](https://img.shields.io/badge/-Pablo_Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablodsilva/)](https://www.linkedin.com/in/pablodsilva/)&nbsp;
-  [![Gmail Badge](https://img.shields.io/badge/-pablo.pds100@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:pablo.pds100@gmail.com)&nbsp;
-  [![Instagram Badge](https://img.shields.io/badge/-blakesaari__-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/blakesaari_/)&nbsp;
-  [![Twitter Badge](https://img.shields.io/badge/-blakesaari-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/blakesaari)&nbsp;
-  [![AniList Badge](https://img.shields.io/badge/-blakesaari-C063FF?style=flat-square&logo=Anilist&logoColor=white)](https://anilist.co/user/blakesaari/)
+  [![LinkedIn Badge](https://img.shields.io/badge/-Pablo_Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/blakesaari/)](https://www.linkedin.com/in/blakesaari/)&nbsp;
+  [![Gmail Badge](https://img.shields.io/badge/-pablo.pds100@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:bmsaari@gmail.com)&nbsp;
+  [![Twitter Badge](https://img.shields.io/badge/-blakesaari-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/blake_saari)&nbsp;
 
 </div>
 
-
-<!-- ![Snake animation](https://github.com/blakesaari/blakesaari/blob/output/github-contribution-grid-snake.svg) -->
-
-<div>
-  <img src="https://github.com/blakesaari/blakesaari/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</div>
 
 <!-- ## 📚 &nbsp;My Projects -->
 
 
-Last Edited on: 26/05/2022
+Last Edited on: 11/07/2023
