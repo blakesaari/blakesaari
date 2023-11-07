@@ -86,7 +86,7 @@
   <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://blakesaari.github.io/)&nbsp; -->
   [![LinkedIn Badge](https://img.shields.io/badge/-Blake_Saari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/blakesaari/)](https://www.linkedin.com/in/blakesaari/)&nbsp;
   [![Gmail Badge](https://img.shields.io/badge/-bmsaari@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:bmsaari@gmail.com)&nbsp;
-  [![Twitter Badge](https://img.shields.io/badge/-blake_saari-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/blake_saari)&nbsp;
+  [![Twitter Badge](https://img.shields.io/badge/-Blake_Saari-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/blake_saari)&nbsp;
 
 </div>
 
